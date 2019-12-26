@@ -1,2 +1,2 @@
-# neotronui
-The UI for Neotron
+# neutronui
+The UI for Neutron
